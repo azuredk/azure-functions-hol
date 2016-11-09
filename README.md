@@ -5,7 +5,7 @@ Following the exercises you will learn how to setup a local environment for runn
 
 ## Prerequisites
 
-TODO - installing Functions CLI
+TODO - installing Functions CLI (https://contos.io/azure-functions-cli-quick-start-ee843dfbe72c#.b0bmd7807)
 TODO - Azure subscription to run Functions on Azure
 
 ## Exercises
